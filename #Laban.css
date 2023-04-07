@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 40%;
+}
+body{
+    background-image: url(E:\canon\20230329181622_IMG_2798.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+table{
+    background-color: slategray;
+    color: grey;
+}
+p{
+    color:greenyellow;
+    background-color: skyblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
